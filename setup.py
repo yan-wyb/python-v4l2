@@ -1,5 +1,4 @@
-from distutils.core import setup
-
+from setuptools import *
 
 setup(
     name='v4l2',
